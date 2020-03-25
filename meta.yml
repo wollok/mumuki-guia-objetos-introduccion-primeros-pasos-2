@@ -1,0 +1,26 @@
+---
+name: Objetos y mensajes
+locale: es
+type: learning
+beta: false
+teacher_info: ''
+language: wollok
+id_format: "%05d"
+order:
+- 1
+- 22
+- 19
+- 23
+- 24
+- 25
+- 35
+- 26
+- 31
+- 32
+- 29
+- 30
+- 27
+- 34
+- 28
+- 33
+private: false
