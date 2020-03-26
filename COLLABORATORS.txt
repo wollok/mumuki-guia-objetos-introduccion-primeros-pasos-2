@@ -1,2 +1,4 @@
-Es una adaptación de una guía armada por Franco Bulgarelli y Ariel Umansky, a la forma de encarar la introducción a Objetos que usamos en UNQ / UNSaM / UNaHur.
+Esta guía es una adaptación, generada por Carlos Lombardi, de una anterior armada por Franco Bulgarelli y Ariel Umansky.
+Su proposito es adaptar el material anterior a la forma de encarar la introducción a Objetos que usamos en UNQ / UNSaM / UNaHur.
+
 A su vez, Pepucha es una adaptación de la vieja Pepita, una creación original de Carlos Lombardi y Germán Leiva, a la que un montón de gente le hizo mejoras.

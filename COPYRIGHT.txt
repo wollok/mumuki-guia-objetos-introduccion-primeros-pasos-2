@@ -1,4 +1,4 @@
-Copyright Carlos Lombardi and contributors
+Copyright Carlos Lombardi, Franco Bulgarelli y Ariel Umansky and contributors
 
 This content consists of voluntary contributions made by many
 individuals. For exact contribution history, see its revision history
