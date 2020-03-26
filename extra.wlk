@@ -13,19 +13,7 @@ object rosario {
   override method toString() = "rosario"
 }
 
-object mercedes {
-  method cantar() {
-    return "♪ una voz antigua de viento y de sal ♫"
-  } 
-  
-  override method toString() = "mercedes"
-}
-
 object anastasia {
-  method cantar() {
-    return "priiiip priiiip"
-  }
-  
   method volarEnCirculos() {}
   
   method comerLombriz() {}
@@ -33,22 +21,13 @@ object anastasia {
   override method toString() = "anastasia"
 }
 
-object pepita {
+object pepucha {
   var energia = 100
   var ciudad = rosario
   
   method energia(unaEnergia) { energia = unaEnergia  }
   method energia() = energia
   method ciudad() = ciudad
-  
-  method cantar() {
-    //mumukiConsole.println("pri pri pri")
-    return "pri pri pri"
-  }
-  
-  method saludar() {
-    return "Hola!"
-  }
   
   method comerLombriz() {
     energia += 20
@@ -72,9 +51,9 @@ object pepita {
   
   method distancia(unaCiudad) = (ciudad.kilometro() - unaCiudad.kilometro()).abs()
   
-  method comerAlpisteYVolarHacia(gramos, unaCiudad) {
-    self.comerAlpiste(gramos)
+  method volarConPremio(unaCiudad, premioEnGramosDeAlpiste) {
     self.volarHacia(unaCiudad)
+    self.comerAlpiste(gramos)
   }
   
   override method toString() = "pepita"
