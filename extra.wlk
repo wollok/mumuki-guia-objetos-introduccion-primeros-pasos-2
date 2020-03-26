@@ -1,24 +1,19 @@
 object buenosAires {
   method kilometro() = 0
-  override method toString() = "buenosAires"
 }
 
 object santaFe {
   method kilometro() = 315
-  override method toString() = "santaFe"
 }
 
 object rosario {
   method kilometro() = 514
-  override method toString() = "rosario"
 }
 
 object anastasia {
   method volarEnCirculos() {}
   
   method comerLombriz() {}
-  
-  override method toString() = "anastasia"
 }
 
 object pepucha {
@@ -56,5 +51,4 @@ object pepucha {
     self.comerAlpiste(premioEnGramosDeAlpiste)
   }
   
-  override method toString() = "pepita"
 }
