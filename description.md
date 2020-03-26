@@ -12,7 +12,7 @@ Ahora sí podemos dar una definición ...
 
 ... que como pasa muchas veces con las definiciones, se va a ir entendiendo sobre la marcha.
 
-Pero ... ¿cómo puedo acceder a un objeto? ¿cómo le pregunto algo, qué me responde? 
+Pero ... ¿cómo puedo interactuar con un objeto? ¿cómo le pregunto algo, qué me responde? ¿Puedo trabajar con muchos objetos?
 
 ¡Cuántas preguntas! Vamos por partes: ¡conozcamos a nuestros primeros objetos!
 
