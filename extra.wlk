@@ -53,7 +53,7 @@ object pepucha {
   
   method volarConPremio(unaCiudad, premioEnGramosDeAlpiste) {
     self.volarHacia(unaCiudad)
-    self.comerAlpiste(gramos)
+    self.comerAlpiste(premioEnGramosDeAlpiste)
   }
   
   override method toString() = "pepita"
