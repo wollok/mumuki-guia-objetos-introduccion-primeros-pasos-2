@@ -9,7 +9,6 @@ id_format: "%05d"
 order:
 - 1
 - 22
-- 19
 - 23
 - 24
 - 25
@@ -23,4 +22,5 @@ order:
 - 34
 - 28
 - 33
+- 19
 private: false
