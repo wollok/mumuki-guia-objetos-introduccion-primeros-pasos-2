@@ -7,7 +7,7 @@ test "pepucha con energia inicial 10000" {
 }
 
 test "pepucha con energia inicial 1000" {
-  pepita.energia(1000)
+  pepucha.energia(1000)
   /*...content...*/
   assert.equals(17395.0, pepucha.energia())
 }
