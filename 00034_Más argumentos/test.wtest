@@ -1,12 +1,12 @@
 /*...extra...*/
 
-test "pepita debe haber perdido energia" {
+test "pepucha debe haber perdido energia" {
   /*...content...*/
-  assert.equals(pepita.energia(), 4516)
+  assert.equals(pepucha.energia(), 4516)
 }
 
 
-test "pepita debe estar en rosario" {
+test "pepucha debe estar en rosario" {
   /*...content...*/
-  assert.equals(pepita.ciudad(), rosario)
+  assert.equals(pepucha.ciudad(), rosario)
 }
