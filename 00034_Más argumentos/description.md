@@ -14,5 +14,5 @@ El objeto `pepucha` entiende el mensaje `comerAlpiste` **con un argumento**. Si 
 
 Dicho de otra forma, **un mensaje queda identificado no sólo por su nombre sino también por su la cantidad de argumentos**: no es lo mismo `comerAlpiste()` que `comerAlpiste(56)` que  `comerAlpiste(5, 6)`, son todos mensajes distintos. Y en este caso, `pepucha` sólo entiende el de un solo argumento. 
 
-> Veamos si va quedando claro: escribí un programa que haga que `pepita` coma 500 gramos de alpiste, vuele a `buenosAires`, y finalmente vuele a `rosario`.
+> Veamos si va quedando claro: escribí un programa que haga que `pepucha` coma 500 gramos de alpiste, vuele a `buenosAires`, y finalmente vuele a `rosario`.
 
