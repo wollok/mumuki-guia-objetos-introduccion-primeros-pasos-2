@@ -1,19 +1,19 @@
 /*...extra...*/
 
-test "pepita con energia inicial 10000" {
-  pepita.energia(10000)
+test "pepucha con energia inicial 10000" {
+  pepucha.energia(10000)
   /*...content...*/
-  assert.equals(39895.0, pepita.energia())
+  assert.equals(39895.0, pepucha.energia())
 }
 
-test "pepita con energia inicial 1000" {
+test "pepucha con energia inicial 1000" {
   pepita.energia(1000)
   /*...content...*/
-  assert.equals(17395.0, pepita.energia())
+  assert.equals(17395.0, pepucha.energia())
 }
 
-test "pepita con energia inicial 560" {
-  pepita.energia(560)
+test "pepucha con energia inicial 560" {
+  pepucha.energia(560)
   /*...content...*/
-  assert.equals(16295.0, pepita.energia())
+  assert.equals(16295.0, pepucha.energia())
 }

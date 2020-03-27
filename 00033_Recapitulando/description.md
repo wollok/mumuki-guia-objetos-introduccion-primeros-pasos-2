@@ -1,18 +1,23 @@
-Entonces, como vimos, en un mundo de objetos, todo lo que tenemos son objetos y mensajes, que pueden ser: 
+Entonces, como vimos, en un mundo de objetos, los conceptos principales son **objeto** y **mensaje**.
 
-* mensajes de palabra clave: su nombre es una palabra, se envía mediante un punto y llevan paréntesis al final:
-  * pueden no tomar argumentos, como `rayuela.autor()`
-  * o pueden tomar uno o más argumentos, separados por coma: `sanMartin.cruzar(losAndes, caballo)`
-* comunmente llamados operadores: son generalmente simboos matemáticos o caracteres especiales, y su sintaxis se asemeja al uso corriente que se hace de ellos.
-  * mensajes que no toman argumentos, como la negación `!true`
-  * mensajes que toman un argumento, como `orson == gardfield` o `2 + 2`
+Por lo general, el envío de un mensaje se hace con la sintaxis básica de Wollok (y de muchos otros lenguajes)
+
+> `<objeto>.<mensaje>(<argumentos>)`
+
+donde ya vimos que puede: 
+* no haber ningún argumento, entonces van los paréntesis vacíos, como `pepucha.energia()`
+* que haya un argumento que va entre los paréntesis, como `pepucha.comerAlpiste(40)`, o
+* que haya varios argumentos, en este caso se separan con comas, p.ej. `pepucha.volarConPremio(rosario, 25)`.
+
+En algunos casos especiales, para el envío de mensajes se usa una sintaxis de _operadores_. Por lo general, son símbolos matemáticos. Por ejemplo, `2 + 4` (se envía al objeto 2 con argumento 4), o la negación `!true` (se envía al objeto true).
+
 
 Y en cualquier caso pueden tener un retorno o bien producir un efecto. 
 
-> ¡Mucho hablar! ¡Queremos acción! Escribí un nuevo programa que:
+> ¡Mucho hablar! ¡Queremos acción! Escribí un nuevo programa que logre que `pepucha`:
 >  
 > 1. Coma 500 gramos de alpiste
 > 1. Vuele a buenos aires
 > 1. Finalmente, coma tanto alpiste como el 10% de su energía. 
 > 
-> Este programa tiene que andar sin importar con cuanta energía arranque `pepita`.
+> Este programa tiene que andar sin importar con cuanta energía arranque `pepucha`.
