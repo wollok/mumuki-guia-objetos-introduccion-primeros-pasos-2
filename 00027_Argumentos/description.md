@@ -19,8 +19,8 @@ En el caso de `pepucha`, se le puede indicar `volarConPremio`, que lleva dos arg
 
 > Probá enviar los siguientes envíos de mensajes:
 >
-> * `pepita.volarHacia(rosario)`
-> * `pepita.comerAlpiste(39)`
-> * `pepita.volarConPremio(santaFe, 10)`
-> * `pepita.comerAlpiste(6, anastasia)`
-> * `pepita.comerAlpiste()`
+> * `pepucha.volarHacia(rosario)`
+> * `pepucha.comerAlpiste(39)`
+> * `pepucha.volarConPremio(santaFe, 10)`
+> * `pepucha.comerAlpiste(6, anastasia)`
+> * `pepucha.comerAlpiste()`
