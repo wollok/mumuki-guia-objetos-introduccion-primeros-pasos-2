@@ -16,9 +16,9 @@ Como vimos en el ejercicio anterior, `pepucha` sí entiende el mensaje `energia(
 
 > Descubramos qué otras cosas sabe responder `pepucha`. Probá enviarle los siguientes mensajes y fijate cuáles entiende, cuales no y qué es lo que responde. ¡Y anotalos!, este conocimiento nos servirá en breve. 
 > 
-> * `ム pepita.energia()`
-> * `ム pepita.filosofoPreferido()`
-> * `ム pepita.ciudad()`
-> * `ム pepita.estasFeliz()`
-> * `ム pepita.cantidadDeOjivasNucleares()`
+> * `ム pepucha.energia()`
+> * `ム pepucha.filosofoPreferido()`
+> * `ム pepucha.ciudad()`
+> * `ム pepucha.estasFeliz()`
+> * `ム pepucha.cantidadDeOjivasNucleares()`
 
