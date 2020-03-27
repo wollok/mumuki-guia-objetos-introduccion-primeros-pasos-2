@@ -5,6 +5,7 @@ Por lo general, el envío de un mensaje se hace con la sintaxis básica de Wollo
 > `<objeto>.<mensaje>(<argumentos>)`
 
 donde ya vimos que puede: 
+
 * no haber ningún argumento, entonces van los paréntesis vacíos, como `pepucha.energia()`
 * que haya un argumento que va entre los paréntesis, como `pepucha.comerAlpiste(40)`, o
 * que haya varios argumentos, en este caso se separan con comas, p.ej. `pepucha.volarConPremio(rosario, 25)`.
